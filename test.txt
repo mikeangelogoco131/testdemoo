@@ -1,2 +1,7 @@
 Goco
+<<<<<<< HEAD
 hshshs
+=======
+mike
+HAHAHA
+>>>>>>> 242d031dd5d7c560d973cded5e4ab51af49db72d
